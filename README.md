@@ -2,7 +2,7 @@ mouseMEA
 ===========
 This is a Matlab code for rendering NeuroNexus H32 Mouse EEG, called multielectrode array (MEA). Electrode sizes and locations are to scale. 
 
-![Figure29.jpg](images/Figure29.jpg)
+![Figure29.jpg](images/Figure29_1.jpg)
 
 Reference
 ===========

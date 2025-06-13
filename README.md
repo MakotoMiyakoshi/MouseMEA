@@ -1,6 +1,6 @@
 mouseMEA
 ===========
-This is a Matlab code for rendering multielectrode array (MEA) using NeuroNexus H32 Mouse EEG. Electrode sizes and locations are to scale. The syntax is similar to EEGLAB's topoplot. Note the channel order is set to that of CCHMC's recording environment.
+This is a Matlab code for rendering multielectrode array (MEA) using NeuroNexus H32 Mouse EEG. Electrode sizes and locations are to scale. The syntax is similar to EEGLAB's topoplot, except that the third input, minmax, is mandatory (if you want to use autoscale, you must enter []). Note the channel order is set to that of CCHMC's recording environment.
 
 ![Figure29.jpg](images/Figure29_1.jpg)
 
